@@ -1,3 +1,5 @@
+![MR_LOGO](https://i.imgur.com/BqnGkVK.png)
+
 # MR_SPOOF v1.0
 
 MR_SPOOF is a python 3 script that can send malicious arp packet in order to disable someone network connection.
@@ -30,5 +32,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Do not use this script for any illegal purposes (seriously, who read that ?)
+* Do not use this script for any illegal purposes.
 
