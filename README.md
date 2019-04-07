@@ -8,6 +8,7 @@ please note that this script is in heavy development, if you have any issue, be 
 * Requirements script (auto download)
 * global arp spoofing
 * intelligent spoofing
+* better device scan (because big lol for netdiscover)
 
 ### what do you need to run this program ?
 
