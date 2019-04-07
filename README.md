@@ -5,7 +5,6 @@ please note that this script is in heavy development, if you have any issue, be 
 
 ## Next updates:
 
-* Requirements script (auto download)
 * global arp spoofing
 * intelligent spoofing
 * better device scan (because big lol for netdiscover)
