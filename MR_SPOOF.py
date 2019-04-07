@@ -94,7 +94,7 @@ def choice():
     sys.stdout.write(GREEN + '[' + RED + '2' + GREEN + '] '); sys.stdout.write('Netdiscover ' + '\n')
     sys.stdout.write(GREEN + '[' + RED + '3' + GREEN + '] '); sys.stdout.write('Start spoof' + '\n')
     sys.stdout.write(GREEN + '[' + RED + '4' + GREEN + '] '); sys.stdout.write('Exit' + '\n')
-    sys.stdout.write(BLUE); main_choice = input('choose an option: ')
+    sys.stdout.write(MAGENTA + 'MR_SPOOF'); sys.stdout.write(BLUE); main_choice = input('> ')
     if main_choice == "1":
         type_target()
     elif main_choice == "2":
@@ -135,8 +135,7 @@ def restore_network(gtwip, gtwmac, trgip, trgmac):
 
 
 def Netdiscover():
-    os.system("gnome-terminal -x sh -c 'netdiscover; exec bash'")
-    os.system('clear')
+    os.system("netdiscover")
     progmount()
 
 
