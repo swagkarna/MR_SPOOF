@@ -36,7 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Do not use this script for any illegal purposes.
 
-If you have any kind of error, you can tell me your problems right here [Git Repo](https://github.com/b3rt1ng/MR_SPOOF/issues)
+If you have any kind of error, you can tell me your problems right here [Issues](https://github.com/b3rt1ng/MR_SPOOF/issues)
 
 
 
