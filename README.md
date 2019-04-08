@@ -30,13 +30,14 @@ the netifaces module
 git clone https://github.com/b3rt1ng/MR_SPOOF
 ```
 
-## License
+## what more ?
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-
-
-* Do not use this script for any illegal purposes.
+Do not use this script for any illegal purposes.
 
 If you have any kind of error, you can tell me your problems right here [Git Repo](https://github.com/b3rt1ng/MR_SPOOF/issues)
+
+
+
 <p align="center">If you feel like you can contribute to this project, feel free to get in contact with me</p>
