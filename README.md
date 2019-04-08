@@ -38,4 +38,4 @@ Do not use this script for any illegal purposes.
 
 If you have any kind of error, you can tell me your problems right here [Issues](https://github.com/b3rt1ng/MR_SPOOF/issues)
 
-If you feel like you can contribute to this project, feel free to get in contact with me
+You can contact me on discord (Berting#4260)
