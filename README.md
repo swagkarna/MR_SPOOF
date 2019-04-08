@@ -10,11 +10,11 @@ please note that this script is in heavy development, if you have any issue, be 
 - may be compatible with MACos if the requirements are installed correctly.
 
 ## Next updates: (if i'm not too lazy)
-
+<p align="center">
 * global arp spoofing
 * intelligent spoofing
 * better device scan (because big lol for netdiscover)
-<p align="center">If you feel like you can contribute to this project, feel free to get in contact with me</p>
+If you feel like you can contribute to this project, feel free to get in contact with me</p>
 
 
 ### what do you need to run this program ?
