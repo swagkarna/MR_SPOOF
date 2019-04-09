@@ -28,6 +28,8 @@ the netifaces module
 
 ```
 git clone https://github.com/b3rt1ng/MR_SPOOF
+cd MR_SPOOF
+python3 -m pip install -r requirements.txt
 ```
 
 ## what more ?
