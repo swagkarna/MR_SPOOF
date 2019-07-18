@@ -32,7 +32,7 @@ git clone https://github.com/b3rt1ng/MR_SPOOF
 cd MR_SPOOF
 python3 -m pip3 install -r requirements.txt
 ```
-you may get some issues with the scapy module. to install it, use pip3
+you may get some issues with the scapy module. to install it, use "pip3 install -r requirements.txt"
 
 ### Common issues
 
