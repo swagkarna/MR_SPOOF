@@ -33,6 +33,12 @@ python3 -m pip3 install -r requirements.txt
 ```
 you may get some issues with the scapy module. to install it, use pip3
 
+### Common issues
+
+I am running my machine on a VMware, and the script doesn't seems to send any packet proprely.
+> Running a pentest machine on a virtual machine can be very tricky when it comes to network attacks
+> Check if your VM is connected Through wifi and not emulated cable.
+> install scapy using another method than pip3 [here](https://scapy.net/download/)
 ## what more ?
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
