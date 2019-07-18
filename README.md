@@ -22,6 +22,7 @@ you will need:
 Python 3
 the uuid module
 the netifaces module
+the scapy module
 ```
 
 ### Installation
