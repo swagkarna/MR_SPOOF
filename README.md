@@ -2,8 +2,9 @@
 
 # MR_SPOOF v1.2
 ![made with python](https://forthebadge.com/images/badges/made-with-python.svg) 
-![no gluten](https://forthebadge.com/images/badges/gluten-free.svg) 
-MR_SPOOF is a python 3 script that can send malicious arp packet in order to disable someone network connection.
+![no gluten](https://forthebadge.com/images/badges/gluten-free.svg)              /r
+
+ MR_SPOOF is a python 3 script that can send malicious arp packet in order to disable someone network connection.
 please note that this script is in heavy development, if you have any issue, be sure to tell me and i'll do my best to fix it.
 
 - compatible with Debian.
