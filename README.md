@@ -42,7 +42,7 @@ __I am running my machine on a VMware, and the script doesn't seems to send any 
 > Running a pentest machine on a virtual machine can be very tricky when it comes to network attacks and check if your VM is connected hrough wifi and not emulated cable. You can also install scapy using another method than pip3 [here](https://scapy.net/download/). 
 
 __Can i try to run the program on windows ?__
-> Yeah, you can also make the program run on a spaceship and on a your grand mother pacemaker kido. 
+> No, sorry.
 
 ## what more ?
 
